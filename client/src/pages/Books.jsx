@@ -44,7 +44,7 @@
                     </div>
                 ))}
             </div>
-            <button className="newBook"><Link to="/add">Add new book</Link></button>
+            <button className="newBook"><Link to="/add">Add a new book</Link></button>
         </div>
     )
  };
