@@ -1,4 +1,3 @@
-// server/index.mjs (or index.js if "type":"module" in package.json)
 import express from "express";
 import mysql from "mysql2";
 import cors from "cors";
